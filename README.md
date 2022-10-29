@@ -1,8 +1,1 @@
-# Usage
-
-Set E5 admin account as repo secrets.
-
-```txt
-USER - E5 admin email
-PASSWD - E5 admin password
-```
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/rsugar/KeepAlive/master/etason.plist
