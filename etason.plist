@@ -1,1 +1,47 @@
-items assets kind software-package url https://raw.github.com/rsugar/KeepAlive/blob/master/jb841x32.ipa kind display-image url https://appletech752.com/icon.png kind full-size-image url https://appletech752.com/icon.png metadata bundle-identifier org.tihmstar.Etason-JB bundle-version 1.0 kind software title Etason JB
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://raw.github.com/rsugar/KeepAlive/blob/master/jb841x32.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://appletech752.com/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://appletech752.com/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xxxx.demo</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>XXXX App download</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
